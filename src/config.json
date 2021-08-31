@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Статистика",
+    "content": [
+      {
+        "id": "pub",
+        "name": "Публикации",
+        "componentContent": {
+          "componentName": "Опубликованные новости",
+          "searchBar": true,
+          "table": false,
+          "tableWhere": "publications",
+          "button": true,
+          "buttonName": "Добавить ссылку"
+        }
+      },
+      {
+        "id": "msg",
+        "name": "Мессенджер",
+        "componentContent": {
+          "componentName": "Сообщения",
+          "searchBar": true,
+          "table": false,
+          "tableWhere": "messages",
+          "button": true,
+          "buttonName": "Добавить ссылку"
+        }
+      }
+    ]
+  },
+  {
+    "title": "",
+    "content": [
+      {
+        "id": "subs",
+        "name": "Подписка на еженедельную рассылку",
+        "componentContent": {
+          "componentName": "Подписки",
+          "searchBar": false,
+          "table": false,
+          "tableWhere": "subscribe",
+          "button": true,
+          "buttonName": "Добавить ссылку"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Списки данных",
+    "content": [
+      {
+        "id": "country",
+        "name": "Доступные города",
+        "componentContent": {
+          "componentName": "Список городов",
+          "searchBar": false,
+          "table": false,
+          "tableWhere": "countryList",
+          "button": true,
+          "buttonName": "Добавить ссылку"
+        }
+      },
+      {
+        "id": "banned",
+        "name": "Заблокированные пользователи",
+        "componentContent": {
+          "componentName": "Список забаненных пользователей",
+          "searchBar": true,
+          "table": false,
+          "tableWhere": "bannedList",
+          "button": true,
+          "buttonName": "Добавить ссылку"
+        }
+      },
+      {
+        "id": "black-list",
+        "name": "Черный список ссылок",
+        "componentContent": {
+          "componentName": "Заблокированные ссылки",
+          "searchBar": true,
+          "table": false,
+          "tableWhere": "blackList",
+          "button": true,
+          "buttonName": "Добавить ссылку"
+        }
+      },
+      {
+        "id": "users",
+        "name": "Управление пользователями",
+        "componentContent": {
+          "componentName": "Список полозователей",
+          "searchBar": true,
+          "table": true,
+          "tableWhere": "usersList",
+          "button": true,
+          "buttonName": "Добавить пользователя"
+        }
+      }
+    ]
+  }
+]

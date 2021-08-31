@@ -1,0 +1,12 @@
+#5A5B5D - svg + color text
+#1c1d1f - border right
+#1d1f22 -color border
+
+#27292C - popup border
+#17191c -background popup
+#1d1f22 -hover popup
+
+
+box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.1);
+
+20px left margin

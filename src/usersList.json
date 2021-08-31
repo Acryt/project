@@ -1,0 +1,20 @@
+[
+    {
+        "id": "53678",
+        "name": "Alex Stone",
+        "email": "alex.greatsoul@gmail.com",
+        "status": true
+    },
+    {
+        "id":"54356",
+        "name":"Alex Brunt",
+        "email":"alex.brunt@gmail.com",
+        "status": true
+    },
+    {
+        "id": "64234",
+        "name": "Alex Towell",
+        "email": "alex.towell@gmail.com",
+        "status": false
+    }
+]
